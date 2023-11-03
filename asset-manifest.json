@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/movie-search/static/css/main.164ca4d7.css",
-    "main.js": "/movie-search/static/js/main.faf79c20.js",
-    "index.html": "/movie-search/index.html",
-    "static/media/search.svg": "/movie-search/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
-    "main.164ca4d7.css.map": "/movie-search/static/css/main.164ca4d7.css.map",
-    "main.faf79c20.js.map": "/movie-search/static/js/main.faf79c20.js.map"
+    "main.css": "/iampitko.github.io/movie_search/static/css/main.164ca4d7.css",
+    "main.js": "/iampitko.github.io/movie_search/static/js/main.99239faa.js",
+    "index.html": "/iampitko.github.io/movie_search/index.html",
+    "static/media/search.svg": "/iampitko.github.io/movie_search/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.164ca4d7.css.map": "/iampitko.github.io/movie_search/static/css/main.164ca4d7.css.map",
+    "main.99239faa.js.map": "/iampitko.github.io/movie_search/static/js/main.99239faa.js.map"
   },
   "entrypoints": [
     "static/css/main.164ca4d7.css",
-    "static/js/main.faf79c20.js"
+    "static/js/main.99239faa.js"
   ]
 }
