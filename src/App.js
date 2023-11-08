@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 import './App.css'
 import SearchIcon from './search.svg'
 import MovieCard from "./MovieCard";
+import { Route } from "react-router-dom";
 
 const API_URL = 'http://www.omdbapi.com?apikey=1c68200c'
 
@@ -30,6 +31,7 @@ const App =() => {
     }, []);
 
     return (
+        <Route basename = "/movie_search">
         <div className="app">
             <h1>Movie For You</h1>
 
@@ -58,6 +60,7 @@ const App =() => {
                 </div>
             )}
         </div>
+        </Route>
     );
 }
 
